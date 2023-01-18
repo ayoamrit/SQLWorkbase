@@ -3,7 +3,7 @@ SQLWorkbase, created in Java Swing, allows user to visualize their SQL Server da
 table view by utilizing JDBC drivers. By entering their SQL Server username and password, users can access all their databases and tables,
 which are displayed in a JTree Panel.
 - Users can easily view specific tables by left-clicking on them in the JTree which will display the selected table in JTable.
-- This program remembers the user's credentials, username and password, for future uses, making it more conveient to connect to the SQL Server.
+- This program remembers the user's credentials, username and password, for future uses, making it more convenient to connect to the SQL Server.
 - Key feature of this program is that it allows users to export the selected table as an excel file using Apache POI drivers , making it a convenient tool for managing and exploring SQL Server databases.
 - The program has a proper exception handling mechanism, making it robust and user-friendly.
 </br>
